@@ -14,6 +14,14 @@ Notebooks and stuff from the IBM Course
 
 [Sets](BasicStuff/PY0101EN-2-4-Sets.ipynb)
 
+[Conditions](BasicStuff/PY0101EN-3-1-Conditions.ipynb)
+
+[Loops](BasicStuff/PY0101EN-3-2-Loops.ipynb)
+
+[Functions](BasicStuff/PY0101EN-3-3-Functions.ipynb)
+
+[Classes](BasicStuff/PY0101EN-3-4-Classes.ipynb)
+
 ## I/O
 
 ## Numpy
