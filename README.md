@@ -30,6 +30,16 @@ Notebooks and stuff from the IBM Course
 
 ## Numpy
 
+[1D](NumPy/PY0101EN-5-1-Numpy1D.ipynb), [2D](NumPy/PY0101EN-5-2-Numpy2D.ipynb)
+
 ## API
 
+[CoinGecko](API/PY0101EN-5.1_Intro_API.ipynb)
+
+[SpeechToText](API/PY0101EN-5.2_API_2.ipynb)
+
 ## Webscraping
+
+[WebscrapingReview](WebScraping_Review_Lab.ipynb)
+
+
