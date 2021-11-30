@@ -24,6 +24,10 @@ Notebooks and stuff from the IBM Course
 
 ## I/O
 
+[Read](IO/PY0101EN-4-1-ReadFile.ipynb)
+
+[Write](IO/PY0101EN-4-2-WriteFile.ipynb)
+
 ## Numpy
 
 ## API
